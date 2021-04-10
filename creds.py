@@ -1,0 +1,2 @@
+url = 'https://webthrive.api-us1.com'
+key = '88e7215677167b3ea6cfa3007972902a7a3506feb3b652000ba9899026f654475947de3b'
